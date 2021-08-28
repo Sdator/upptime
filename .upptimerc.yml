@@ -5,9 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: MyBlog
     url: https://sdator.github.io
-  - name: 二进制编辑工具
+  - name: BinEditTool # 二进制编辑工具
     url: https://sdator.github.io/tools/fchack/
-  - name: 魔兽3字符编码转换器
+  - name: War3C2I # 魔兽3字符编码转换器
     url: https://sdator.github.io/tools/war3/
 
 

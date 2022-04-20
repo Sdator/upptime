@@ -4,19 +4,19 @@
     "url": "https://sdator.github.io",
     "icon": "https://favicons.githubusercontent.com/sdator.github.io",
     "slug": "my-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 1086,
-    "timeWeek": 338,
-    "timeMonth": 178,
-    "timeYear": 109,
+    "time": 127,
+    "timeDay": 2157,
+    "timeWeek": 778,
+    "timeMonth": 303,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 9
     }
   },
   {

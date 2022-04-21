@@ -6,18 +6,16 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 2157,
-    "timeWeek": 778,
-    "timeMonth": 303,
-    "timeYear": 127,
-    "dailyMinutesDown": {
-      "2022-04-20": 9
-    }
+    "time": 126,
+    "timeDay": 2126,
+    "timeWeek": 767,
+    "timeMonth": 300,
+    "timeYear": 126,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BinEditTool",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 98,
-    "timeWeek": 56,
-    "timeMonth": 90,
+    "timeDay": 2,
+    "timeWeek": 43,
+    "timeMonth": 85,
     "timeYear": 56,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 110,
-    "timeWeek": 67,
-    "timeMonth": 87,
+    "timeDay": 16,
+    "timeWeek": 54,
+    "timeMonth": 82,
     "timeYear": 55,
     "dailyMinutesDown": {}
   }
